@@ -99,6 +99,6 @@ COPY --from=final-staging ["/","/"]
 #- ```
 #-
 #- Log in with:
-#- * https://localhost:8443/
+#- * https://ti.mypingdemo.com:8443/
 #-   * Username: admin
 #-   * Password: password123
